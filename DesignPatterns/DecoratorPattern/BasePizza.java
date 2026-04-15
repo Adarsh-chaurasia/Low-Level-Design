@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package DesignPatterns.DecoratorPattern;
 
 public abstract class BasePizza {
 

@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package DesignPatterns.DecoratorPattern;
 
 public class ExtraCheese extends Toppings{
 

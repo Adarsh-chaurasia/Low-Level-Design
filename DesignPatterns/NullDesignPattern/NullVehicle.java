@@ -1,4 +1,4 @@
-package NullDesignPattern;
+package DesignPatterns.NullDesignPattern;
 
 public class NullVehicle implements Vehicle{
 

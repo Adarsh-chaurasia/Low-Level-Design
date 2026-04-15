@@ -1,4 +1,4 @@
-package BuilderDP;
+package DesignPatterns.BuilderDP;
 
 public class Main {
 

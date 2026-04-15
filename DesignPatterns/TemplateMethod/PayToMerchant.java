@@ -1,4 +1,4 @@
-package TemplateMethod;
+package DesignPatterns.TemplateMethod;
 
 public class PayToMerchant extends PaymentInterface{
     @Override

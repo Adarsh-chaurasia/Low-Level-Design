@@ -1,4 +1,4 @@
-package FactoryDesignPattern;
+package DesignPatterns.FactoryDesignPattern;
 
 public interface Shape {
 

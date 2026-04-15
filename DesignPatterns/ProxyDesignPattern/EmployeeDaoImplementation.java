@@ -1,4 +1,4 @@
-package ProxyDesignPattern;
+package DesignPatterns.ProxyDesignPattern;
 
 public class EmployeeDaoImplementation implements EmployeeDao{
     @Override

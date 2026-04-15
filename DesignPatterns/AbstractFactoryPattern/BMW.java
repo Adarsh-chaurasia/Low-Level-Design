@@ -1,4 +1,4 @@
-package AbstractFactoryPattern;
+package DesignPatterns.AbstractFactoryPattern;
 
 public class BMW implements Vehicle{
 

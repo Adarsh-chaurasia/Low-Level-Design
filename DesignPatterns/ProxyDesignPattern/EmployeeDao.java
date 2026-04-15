@@ -1,4 +1,4 @@
-package ProxyDesignPattern;
+package DesignPatterns.ProxyDesignPattern;
 
 public interface EmployeeDao {
 
